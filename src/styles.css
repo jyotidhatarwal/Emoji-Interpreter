@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  font-size: x-large;
+  margin: 1rem;
+}
+
+textarea {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
+
+li {
+  display: inline;
+  padding: 0.4rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
